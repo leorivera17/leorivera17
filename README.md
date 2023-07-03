@@ -6,30 +6,32 @@
 ## Coursework
 Throughout my academic journey, I have undertaken a diverse range of coursework, which has provided me with a strong foundation in various fields of computer science. Some of the key coursework I have completed includes:
 
-***Digital Design***: I have gained a deep understanding of digital logic circuits and their design principles, enabling me to develop efficient and optimized digital systems.
+***Digital Design***: This course explores number systems, Boolean algebra, Boolean functions, function minimization, analysis and design of combinational and sequential digital logic circuits, and introduces Hardware Description Language (HDL) concepts for digital design and synthesis in Field Programmable Gate Arrays (FPGAs).
 
-***Computer Design and Assembly Language Programming***: I have learned about computer architecture and the low-level programming language, Assembly. This coursework has given me insights into how computers work at the hardware level and how to write efficient programs.
+***Computer Design and Assembly Language Programming***: This course focuses on the design and implementation of digital computer circuits using CAD tools for programmable logic devices (PLDs), covering basic computer design, including datapath components and control units, as well as an introduction to assembly language programming for off-the-shelf RISC-based microcontrollers.
 
-***Introduction to Computing***: This coursework provided me with a broad overview of the fundamentals of computing, including topics such as computer organization, operating systems, and networks.
+***Introduction to Computing***: This course covers the basics of algorithmic problem solving, programming principles, control structures, data types, input/output operations, software development process, and the syntax of modern programming languages.
 
-***Fundamentals of Computer Science***: I have studied the core concepts of computer science, including algorithms, complexity analysis, and problem-solving techniques.
+***Fundamentals of Computer Science***: This course provides hands-on experience using a supportive software development environment to design, develop, and test applications in a selected domain, showcasing the potential of computing careers and introducing key concepts in computing.
 
-***Data Structures***: I have delved into various data structures such as linked lists, stacks, queues, trees, and graphs, and learned how to implement and utilize them efficiently.
+***Data Structures***: This course introduces data structures and algorithms, covering abstract datatypes, advanced data structure implementation, theoretical and empirical analysis of recursive and iterative algorithms, as well as software performance evaluation and testing techniques.
 
-***Project-Based Object-Oriented Programming and Design***: This coursework focused on object-oriented programming principles and design patterns, equipping me with the skills to develop modular and maintainable software.
+***Project-Based Object-Oriented Programming and Design***: This course focused on object-oriented programming and design with applications to project construction. Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing. 
 
-***Discrete Structures***: I have explored mathematical concepts and their applications in computer science, including sets, relations, logic, and combinatorics.
+***Discrete Structures***: This course covers the fundamental structures of computer science, including logic, sets, relations, functions, graphs, and trees, as well as propositional and predicate logic. It explores the applications of predicate logic to preconditions, postconditions, proof techniques, and examines the complexity of algorithms.
+
+***
 
 Projects
 In addition to my coursework, I have had the opportunity to work on several projects using Python and Java. These projects have allowed me to apply my programming skills and deepen my understanding of various concepts. 
 
 Python: [PROJECTS 👨‍💻](https://github.com/leorivera17/python)
 
-Description: This project involved developing a web application using Python and Django framework. It incorporated features like user authentication, database management, and interactive user interfaces.
+Description: Exploring Data Structures and Algorithms
 
 Java: [PROJECTS 🖥️](https://github.com/leorivera17/java/tree/main/src)
 
-Description: In this project, I created a Java application that implemented various data structures and algorithms. It focused on optimizing performance and memory utilization for large datasets.
+Description: Applying Python Skills to Java Development
 
 ***
 
