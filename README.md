@@ -22,7 +22,6 @@ Throughout my academic journey, I have undertaken a diverse range of coursework,
 
 ***
 
-Projects
 In addition to my coursework, I have had the opportunity to work on several projects using Python and Java. These projects have allowed me to apply my programming skills and deepen my understanding of various concepts. 
 
 Python: [PROJECTS 👨‍💻](https://github.com/leorivera17/python)
