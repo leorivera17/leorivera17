@@ -29,7 +29,7 @@ Python: [PROJECTS 👨‍💻](https://github.com/leorivera17/python)
 
 Description: Exploring Data Structures and Algorithms
 
-Java: [PROJECTS 🖥️](https://github.com/leorivera17/java/tree)
+Java: [PROJECTS 🖥️](https://github.com/leorivera17/java)
 
 Description: Applying Python Skills to Java Development
 
