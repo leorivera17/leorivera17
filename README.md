@@ -24,7 +24,7 @@ Throughout my academic journey, I have undertaken a diverse range of coursework,
 
 In addition to my coursework, I have had the opportunity to work on several projects using Python and Java. These projects have allowed me to apply my programming skills and deepen my understanding of various concepts. 
 
-Python: [PROJECTS 👨‍💻](https://github.com/leorivera17/python)
+Python: [DATA STRUCTURE PROJECTS 👨‍💻](https://github.com/leorivera17/python) OR [SCHOOL LABS/PROJECTS 💻](https://github.com/leorivera17/School_Python)
 
 Description: Exploring Data Structures and Algorithms
 
