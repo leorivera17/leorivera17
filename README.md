@@ -20,6 +20,16 @@ Throughout my academic journey, I have undertaken a diverse range of coursework,
 
 ***Discrete Structures***: This course covers the fundamental structures of computer science, including logic, sets, relations, functions, graphs, and trees, as well as propositional and predicate logic. It explores the applications of predicate logic to preconditions, postconditions, proof techniques, and examines the complexity of algorithms.
 
+***Systems Programming***: This course covers C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
+
+***Design and Analysis of Algorithms***: This course covers intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search.
+
+***Introduction to Database Systems***: This course covers the basic principles of database management systems (DBMS) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools.
+
+***Software Engineering I & II***: Principles for engineering requirements analysis and design of large complex software systems. Software process models. Methods of project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs. Group laboratory project. Technical oral and written presentations. Continuation of the software lifecycle. Methods and tools for the implementation, integration, testing and maintenance of large software systems. Software development and test environments. Software quality assurance. Group laboratory project. Technical presentation methods and practice. 
+
+***Programming Languages***: This course covers programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. Syntactic, semantic, and static analysis properties. 
+
 ***
 
 In addition to my coursework, I have had the opportunity to work on several projects using Python and Java. These projects have allowed me to apply my programming skills and deepen my understanding of various concepts. 
